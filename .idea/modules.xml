@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aplicandoorientacaoobjetos/atividadenaoobrigatoria2/atividadenaoobrigatoria2.iml" filepath="$PROJECT_DIR$/aplicandoorientacaoobjetos/atividadenaoobrigatoria2/atividadenaoobrigatoria2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listaecolecoesdedados/atividadenaoobrigatoria3/atividadenaoobrigatoria3.iml" filepath="$PROJECT_DIR$/listaecolecoesdedados/atividadenaoobrigatoria3/atividadenaoobrigatoria3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listaecolecoesdedados/atividadenaoobrigatoria4/atividadenaoobrigatoria4.iml" filepath="$PROJECT_DIR$/listaecolecoesdedados/atividadenaoobrigatoria4/atividadenaoobrigatoria4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listaecolecoesdedados/atividadepraticanaoobrigatoria/atividadepraticanaoobrigatoria.iml" filepath="$PROJECT_DIR$/listaecolecoesdedados/atividadepraticanaoobrigatoria/atividadepraticanaoobrigatoria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listaecolecoesdedados/atividadepraticanaoobrigatoria02/atividadepraticanaoobrigatoria02.iml" filepath="$PROJECT_DIR$/listaecolecoesdedados/atividadepraticanaoobrigatoria02/atividadepraticanaoobrigatoria02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacriandosuaprimeiraaplicacao/exercicioconversaograusCelsiusparaFahrenheit/exercicioconversaograusCelsiusparaFahrenheit.iml" filepath="$PROJECT_DIR$/javacriandosuaprimeiraaplicacao/exercicioconversaograusCelsiusparaFahrenheit/exercicioconversaograusCelsiusparaFahrenheit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacriandosuaprimeiraaplicacao/exerciciogerarnumeroaleatorio1a100eadivinhar/exerciciogerarnumeroaleatorio1a100eadivinhar.iml" filepath="$PROJECT_DIR$/javacriandosuaprimeiraaplicacao/exerciciogerarnumeroaleatorio1a100eadivinhar/exerciciogerarnumeroaleatorio1a100eadivinhar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/exercicios-java.iml" filepath="$PROJECT_DIR$/.idea/exercicios-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aplicandoorientacaoobjetos/minhasmusicas/minhasmusicas.iml" filepath="$PROJECT_DIR$/aplicandoorientacaoobjetos/minhasmusicas/minhasmusicas.iml" />
+    </modules>
+  </component>
+</project>
